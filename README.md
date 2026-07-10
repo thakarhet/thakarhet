@@ -1,4 +1,4 @@
-# HetThakar
+# Hi I Am Het Thakar
 # 💫 About Me:
 ## 🚀 About Me<br><br>- 💻 Passionate about building impactful software and solving real world problems through technology.<br>- 🤖 Currently building projects in Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.<br>- 🌱 Continuously learning Deep Learning, MLOps, Cloud Computing, and System Design.<br>- 🤝 Open to collaborating on Open Source, AI, Data Science, and innovative software projects.<br>- 🔍 Interested in Artificial Intelligence, Data Engineering, Cloud Technologies, and Scalable Software Systems.<br>- 📚 Dedicated to continuous learning through hands on projects and practical experience.<br>- 💬 Ask me about Python, Machine Learning, Data Science, Git, GitHub, HTML, CSS, and Software Development.<br>- 🎯 Mission: Build intelligent products that create meaningful impact and contribute to the open source community.<br>- ⚡ Fun fact: I enjoy transforming ideas into real world applications and believe learning never stops.
 
